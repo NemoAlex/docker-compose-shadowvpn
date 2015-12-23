@@ -4,7 +4,7 @@ This is a Docker Compose File for [vimagick/shadowvpn](https://hub.docker.com/r/
 
 ## How to use
 
-1. Install docker
+1. Install [docker](https://docs.docker.com/linux/step_one/)
 
 2. Install [docker-compose script](https://docs.docker.com/compose/install/)
 
