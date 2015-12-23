@@ -13,12 +13,12 @@ This is a Docker Compose File for [vimagick/shadowvpn](https://hub.docker.com/r/
   ```
   git clone https://github.com/NemoAlex/docker-compose-shadowvpn.git
   ```
-
-4. Grab and run ShadowVPN container
+4. Edit `server.conf`
+5. Grab and run ShadowVPN container
 
   ```
   cd docker-compose-shadowvpn
   docker-compose up -d
   ```
 
-5. ShadowVPN service now available
+6. ShadowVPN service now available
